@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Stephanie Netoafomachukwu 'Neto' Anyama (@Neto-A). 
-- I am a 23 year old Nigerian. I live in Lagos, Nigeria. I am a 5th year medical student.
-- 👀 I’m a Junior Data Analyst, and have been on this journey since March 2022. I have a decent grasp of Excel, SQL, Python and PowerBI.
+- 👋 Hi, I’m Stephanie Anyama (@Neto-A). 
+- I am a 24 year old Nigerian. I live in Lagos, Nigeria.
+- 👀 I’m a Data Analyst/Data Storyteller, and have been on this journey since March 2022.
 - 🌱 I have taken and completed Udacity's Data Analyst Nanodegree course.
 - 💞️ I’m looking to collaborate on Excel, SQL, PowerBI and Python projects.
-- 📫 Connect with me via my [LinkedIn](https://www.linkedin.com/in/stephanie-netoafomachukwu-anyama-0b5257204) and [X](https://twitter.com/naeto__?s=11&t=cNrs_bUbkERTYWg9v-2g_A)!
+- 📫 Connect with me via my [LinkedIn]([https://linkedin.com/in/stephanieanyama]) and [X](https://twitter.com/naeto__?s=11&t=cNrs_bUbkERTYWg9v-2g_A)!
 
 
 <!---
